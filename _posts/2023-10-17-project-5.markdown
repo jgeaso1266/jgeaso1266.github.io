@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+title: Lead Course Assistant
+role: 601.226 - Data Structures
+img: jhu.png 
+alt: image-alt
+project-date: August 2022 - Present
+description: Enhanced grading fairness by analyzing discrepancies in the grading process and crafting new rubrics. Improved learning outcomes for hundreds of students by organizing and leading extensive review sessions.
+---
+

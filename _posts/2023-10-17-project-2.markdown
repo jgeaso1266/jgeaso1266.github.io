@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 4
+title: Systems Development Intern
+role: NASA
+img: nasa.png 
+alt: image-alt
+project-date: July 2021 - August 2021
+description: Built an MVP of the "Neptune" 1U CubeSat that measured sea levels and temperatures. Lowered costs by over $1000 by strategically using commercial-off-the-shelf components. Authored and reviewed a culminating <a target="_blank" rel="noopener noreferrer" href="https://ui.adsabs.harvard.edu/abs/2021AGUFMED35A0559G/abstract">abstract</a>, which was accepted at the national AGU 2021 Fall Meeting.
+---

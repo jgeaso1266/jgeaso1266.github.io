@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 5
+title: Founder & Lead Producer
+role: J-Cuts Productions
+img: jcuts.png 
+alt: image-alt
+project-date: July 2017 - Present
+description: Founded a video production and editing company from the ground up. Grew client portfolio from 1 to 20+ in 3 years. Created 300+ creative and innovative video solutions for clients, resulting in over $10,000 in revenue.
+---

@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 1
+title: Embedded Systems Intern
+role: Cruise
+img: cruise.png 
+alt: image-alt
+project-date: May 2023 - August 2023
+description: Collaborated with engineers, product managers, and program managers to lead the integration of a revolutionary telematics device into the existing self-driving car stack launch process.
+---

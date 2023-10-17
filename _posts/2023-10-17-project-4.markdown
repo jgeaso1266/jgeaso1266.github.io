@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 3
+title: Software Development Intern
+role: Amazon
+img: amazon.png 
+alt: image-alt
+project-date: May 2022 - August 2022
+description: Designed and implemented a developer-friendly API for a new customer-facing webpage using Java and JSP. Drove impactful collaboration efforts with both internal team members and external stakeholders to refine the design. Prioritized key features to push code into production a full quarter ahead of schedule.
+---

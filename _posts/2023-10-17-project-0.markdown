@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 6
+title: Product Lead & Developer
+role: Practanizer App
+img: practanizer.png 
+alt: image-alt
+project-date: October 2020 - January 2021
+description: Created an app inspired by personal struggles as a musician to log practice hours. Awarded <a target="_blank" rel="noopener noreferrer" href="https://www.congressionalappchallenge.us/20-md02/">1st place</a> in the esteemed Congressional App Challenge in district MD-02. Crafted compelling user stories and conducted market research to drive product development. Managed the iterative development process, consistently enhancing app features.
+---
