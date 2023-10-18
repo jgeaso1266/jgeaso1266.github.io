@@ -486,3 +486,21 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+/* .video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.slides {
+    width: 100%;
+    text-align: center;
+}
+
+.repertoire {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 40px;
+}

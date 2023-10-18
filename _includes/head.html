@@ -10,6 +10,27 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.xml">
 
+  <link rel="stylesheet" href="../flexslider.css" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+  <script src="../jquery.flexslider-min.js"></script>
+
+  <script type="text/javascript" charset="utf-8">
+    // jQuery(window).load(function() {
+    //   $('.flexslider').flexslider({
+    //     animation: "slide",
+    //     video: "true"
+    //   });
+    // });
+    (function($){
+        $(window).load(function() {
+            $('.flexslider').flexslider({
+            animation: "slide",
+            video: "true"
+            });
+        });
+    })(jQuery);
+  </script>
+
   <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
   <link rel="stylesheet" href="{{ " style.css" }}">
 
@@ -32,4 +53,15 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+  <!-- Adding ReCAPTCHA -->
+  <!-- <script src="https://www.google.com/recaptcha/api.js?render=6LcjIKwoAAAAAEcSdWMkZW17txk623y5hcL0yYEQ"></script>
+  <script>
+      grecaptcha.ready(function () {
+          grecaptcha.execute('6LcjIKwoAAAAAEcSdWMkZW17txk623y5hcL0yYEQ', {action: 'submit'}).then(function (token) {
+              console.info("got token: " + token);
+              document.getElementById('g-recaptcha-response').value = token;
+          });
+      });
+  </script> -->
 </head>
