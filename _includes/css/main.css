@@ -297,7 +297,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
     background: #fff;
 }
 
@@ -320,6 +320,21 @@ section.success {
     background: 0 0;
     box-shadow: none!important;
     resize: none;
+    color : #fff;
+}
+
+form .form-control::-webkit-input-placeholder { 
+  color: #fff;
+}
+
+form .form-control::-moz-placeholder {
+  color: #fff;
+}
+form .form-control:-ms-input-placeholder {
+  color: #fff;
+}
+form .form-control:placeholder {
+  color: #fff;
 }
 
 .floating-label-form-group label {
@@ -394,6 +409,16 @@ footer .footer-below {
 .btn:active,
 .btn.active {
     outline: 0;
+}
+
+#contact-send {
+    background-color: #{{ site.color.secondary }};
+    color: #fff;
+}
+
+.contact-send:hover {
+    background-color: #{{ site.color.secondary-dark }};
+    color: #fff;
 }
 
 .scroll-top {
