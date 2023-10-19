@@ -320,7 +320,7 @@ section.success {
     background: 0 0;
     box-shadow: none!important;
     resize: none;
-    color : #fff;
+    color: #fff;
 }
 
 form .form-control::-webkit-input-placeholder { 
@@ -365,7 +365,7 @@ form .form-control:placeholder {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.primary }};
+    color: #fff;
 }
 
 form .row:first-child .floating-label-form-group {
