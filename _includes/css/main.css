@@ -413,6 +413,12 @@ footer .footer-below {
 
 #contact-send {
     background-color: #{{ site.color.secondary }};
+    margin: 20px;
+    color: #fff;
+}
+
+#contact-schedule {
+    background-color: #{{ site.color.secondary }};
     color: #fff;
 }
 
