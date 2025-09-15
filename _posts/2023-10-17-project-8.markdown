@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 1
+title: Technical Product Marketing Manager
+role: Viam
+img: viam.png 
+alt: image-alt
+project-date: June 2024 - Present
+description: First Technical Product Marketing Manager at Viam. Leading efforts for our enterprise and developer GTM motions. 
+---
